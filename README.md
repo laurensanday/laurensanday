@@ -4,7 +4,7 @@
 - 👀 My other interests are photography, art, and fashion!
 - 📫 How to reach me: Laurensanday7@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Checkout a y2k magazine website [RedRoom](https://redroomdis.wordpress.com/homepage/) I created with my friends! 
+- ⚡ Fun fact: Checkout a student-led magazine website [RedRoom](https://redroomdis.wordpress.com/homepage/) I created with my friends! 
   
 
 <!---
