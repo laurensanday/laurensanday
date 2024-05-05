@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laurensanday
 -  I’m interested in Information Technology and cybersecurity
-- 🌱 I’m currently falling in love with programming and I'm learning JavaScript and SQL
+- 🌱 I’m currently falling in love with programming and I'm working on projects in JavaScript, HTML, and CSS
 - 👀 My other interests are photography, art, and fashion!
 - 📫 How to reach me: Laurensanday7@gmail.com
 - 😄 Pronouns: She/Her
