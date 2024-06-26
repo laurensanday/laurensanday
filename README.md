@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @laurensanday
--  I’m interested in Information Technology and cybersecurity
-- 🌱 I’m currently falling in love with programming and I'm working on projects using Java, HTML, and CSS
-- 👀 My other interests are photography, art, and fashion!
+-  I’m interested in Information Technology 
 - 📫 How to reach me: Laurensanday7@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Checkout a student-led magazine website [RedRoom](https://redroomdis.wordpress.com/homepage/) I created with my friends! 
